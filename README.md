@@ -97,12 +97,4 @@ Insufficient balance.
 - `ATM_Simulation_using_CPP.cpp` — C++ source code
 - `README.md` — project documentation
 
-## Project Evidence
 
-For execution proof, run the program in VS Code and capture screenshots showing:
-1. Main ATM menu
-2. Balance checking
-3. Successful deposit
-4. Successful withdrawal
-5. Insufficient-balance validation
-6. Exit operation
