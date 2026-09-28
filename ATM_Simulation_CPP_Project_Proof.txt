@@ -1,0 +1,29 @@
+ATM SIMULATION USING C++ — PROJECT PROOF
+
+Project description:
+Built a menu-driven ATM simulation in C++ for basic banking operations.
+
+Reconstructed implementation:
+This proof document accompanies a reconstructed implementation based on the project description. It is not presented as the original archived source.
+
+FUNCTIONALITY TO VERIFY
+
+1. Menu system
+   - Check Balance
+   - Deposit Money
+   - Withdraw Money
+   - Exit
+
+2. Balance management
+   - Initial balance is maintained in a variable.
+   - Deposits increase the balance.
+   - Valid withdrawals decrease the balance.
+
+3. Validation
+   - Rejects zero or negative deposit/withdrawal amounts.
+   - Rejects withdrawals greater than the available balance.
+   - Handles invalid menu choices.
+
+4. Program flow
+   - A loop keeps the ATM menu active until Exit is selected.
+   - A switch statement routes the user's menu choice.
